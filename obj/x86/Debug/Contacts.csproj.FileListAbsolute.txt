@@ -1,0 +1,11 @@
+C:\Users\Owner\Desktop\UCCS\CS 3020 C#.NET\Homework\HW4\CS-3020_01_Contacts\bin\Debug\Lists.exe
+C:\Users\Owner\Desktop\UCCS\CS 3020 C#.NET\Homework\HW4\CS-3020_01_Contacts\bin\Debug\Lists.pdb
+C:\Users\Owner\Desktop\UCCS\CS 3020 C#.NET\Homework\HW4\CS-3020_01_Contacts\obj\x86\Debug\Contacts.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\UCCS\CS 3020 C#.NET\Homework\HW4\CS-3020_01_Contacts\obj\x86\Debug\Lists.exe
+C:\Users\Owner\Desktop\UCCS\CS 3020 C#.NET\Homework\HW4\CS-3020_01_Contacts\obj\x86\Debug\Lists.pdb
+C:\Users\Owner\Desktop\Contact List Project\bin\Debug\Lists.exe
+C:\Users\Owner\Desktop\Contact List Project\bin\Debug\Lists.pdb
+C:\Users\Owner\Desktop\Contact List Project\obj\x86\Debug\Contacts.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\Contact List Project\obj\x86\Debug\Contacts.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Contact List Project\obj\x86\Debug\Lists.exe
+C:\Users\Owner\Desktop\Contact List Project\obj\x86\Debug\Lists.pdb
